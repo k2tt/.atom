@@ -1,0 +1,17 @@
+atom-beautify@0.28.14
+base16-eighties-dark@2.1.1
+color-picker@2.0.13
+docblockr@0.7.3
+emmet@2.3.13
+file-icons@1.6.11
+highlight-line@0.11.0
+japanese-menu@1.4.0
+japanese-wrap@0.2.7
+linter@1.8.1
+linter-csslint@1.1.0
+linter-htmlhint@0.1.1
+linter-jshint@1.2.1
+linter-php@1.0.5
+script@3.0.1
+show-ideographic-space@1.0.1
+term2@0.9.21

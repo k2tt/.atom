@@ -1,0 +1,13 @@
+"*":
+  "exception-reporting":
+    userId: "062b98d1-d180-2f0a-2bef-47a36620b575"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-light-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    invisibles: {}
+  docblockr: {}
